@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/pagina-pessoal-GTHC/static/css/main.298376f3.css",
+    "main.css": "/pagina-pessoal-GTHC/static/css/main.bb9742eb.css",
     "main.js": "/pagina-pessoal-GTHC/static/js/main.be198b8e.js",
     "index.html": "/pagina-pessoal-GTHC/index.html",
-    "main.298376f3.css.map": "/pagina-pessoal-GTHC/static/css/main.298376f3.css.map",
+    "main.bb9742eb.css.map": "/pagina-pessoal-GTHC/static/css/main.bb9742eb.css.map",
     "main.be198b8e.js.map": "/pagina-pessoal-GTHC/static/js/main.be198b8e.js.map"
   },
   "entrypoints": [
-    "static/css/main.298376f3.css",
+    "static/css/main.bb9742eb.css",
     "static/js/main.be198b8e.js"
   ]
 }
