@@ -114,6 +114,7 @@
   .home-avatar {
     position: relative;
     display: block;
+    width: auto;
     top: 10px;
     left: 0px;
   }
