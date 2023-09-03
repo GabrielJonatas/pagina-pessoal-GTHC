@@ -1,18 +1,21 @@
 {
   "files": {
-    "main.css": "/pagina-pessoal-GTHC/static/css/main.3a871614.css",
-    "main.js": "/pagina-pessoal-GTHC/static/js/main.bc81ef83.js",
+    "main.css": "/pagina-pessoal-GTHC/static/css/main.e593decd.css",
+    "main.js": "/pagina-pessoal-GTHC/static/js/main.c373b3c9.js",
+    "static/media/Ufabc_icon.png": "/pagina-pessoal-GTHC/static/media/Ufabc_icon.542d4075c1c38c8884a9.png",
+    "static/media/etec_icon.png": "/pagina-pessoal-GTHC/static/media/etec_icon.f82a028560d00b2a13e7.png",
+    "static/media/gthc_icon.png": "/pagina-pessoal-GTHC/static/media/gthc_icon.76b1b89de06140f014bd.png",
     "static/media/instagram_icon.png": "/pagina-pessoal-GTHC/static/media/instagram_icon.570d936885bdfa62ecca.png",
     "static/media/github_icon.png": "/pagina-pessoal-GTHC/static/media/github_icon.63a8c65d4b55a4d9ff5b.png",
     "static/media/facebook_icon.png": "/pagina-pessoal-GTHC/static/media/facebook_icon.0993dafd565d5a9f9702.png",
     "static/media/foto.jpg": "/pagina-pessoal-GTHC/static/media/foto.89a94c73fc14dabbec5c.jpg",
     "static/media/linkedin_icon.png": "/pagina-pessoal-GTHC/static/media/linkedin_icon.29d03afb20d72e0e3b78.png",
     "index.html": "/pagina-pessoal-GTHC/index.html",
-    "main.3a871614.css.map": "/pagina-pessoal-GTHC/static/css/main.3a871614.css.map",
-    "main.bc81ef83.js.map": "/pagina-pessoal-GTHC/static/js/main.bc81ef83.js.map"
+    "main.e593decd.css.map": "/pagina-pessoal-GTHC/static/css/main.e593decd.css.map",
+    "main.c373b3c9.js.map": "/pagina-pessoal-GTHC/static/js/main.c373b3c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.3a871614.css",
-    "static/js/main.bc81ef83.js"
+    "static/css/main.e593decd.css",
+    "static/js/main.c373b3c9.js"
   ]
 }
