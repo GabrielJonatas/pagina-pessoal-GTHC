@@ -44,9 +44,13 @@
   color: #ffffff;
 }
 .content {
-  max-width: 630px;
+  max-width: 100%;
   margin: 30px 20px;
   padding: 20px 10px;
+  height: 90vh;
+}
+.home {
+  max-width: 630px;
 }
 .home h2 {
   margin-bottom: 15px;
@@ -62,6 +66,35 @@
   bottom: 40px;
   left: 800px;
   display: inline;
+}
+.expac .un{
+  margin-bottom: 50px;
+  display: flex;
+}
+.expac .uf {
+  margin-right: 50px;
+}
+.expac .logos {
+  margin: 20px 0px;
+  width: 100px;
+}
+.expac .logos-gthc {
+  margin: 20px 0px;
+  width: 105px;
+}
+.expac .logos-grub {
+  margin: 20px 0px;
+  width: 190px;
+}
+.expac p {
+  font-size: 15px;
+  margin: 10px 0px ;
+}
+.expac h2 {
+  margin: 10px 0px;
+}
+.expac h3 {
+  margin: 10px 0px;
 }
 .footer {
   display: flex;
@@ -108,6 +141,9 @@
     color: #10b218;
     background-color: #dedede;
   }
+  .content {
+    height: auto;
+  }
   .home {
     display: block;
   }
@@ -124,8 +160,16 @@
   .links {
     margin: 10px 0px ;
   }
+  .expac .un{
+    margin-bottom: 50px;
+    display: block;
+  }
   .footer {
     display: block;
     text-align: center;
+    height: auto;
+  }
+  .footer div {
+    height: auto;
   }
 }

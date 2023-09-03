@@ -1,7 +1,6 @@
-import {useState} from 'react';
-import gabriel from './Imagens/foto.jpg'
-import linkedin from './Imagens/linkedin_icon.png'
-import github from './Imagens/github_icon.png'
+import gabriel from '../Imagens/foto.jpg'
+import linkedin from '../Imagens/linkedin_icon.png'
+import github from '../Imagens/github_icon.png'
 
 //Seção inicial contendo o seu nome, 
 //link para o seu LinkedIn e GitHub, um pequeno texto bibliográfico
@@ -10,13 +9,11 @@ import github from './Imagens/github_icon.png'
 //(pode ser sua ou um avatar caso não queira mostrar o rosto);
 
 const Home = () => {
-    const terminal = "GTHC@Lab:~/Documents/Members$ cat AboutTheNewbieGabriel.txt";
-    const finalCommand = "GTHC@Lab:~/Documents/Members$";
+
     return ( 
         <div className="home">
             <h2>Sobre mim</h2>
-            <p class="home-description">
-                {terminal}<br/><br/>
+            <p className="home-description">
                 Bem vindo a minha página pessoal!<br/><br/>
                 Meu nome é Gabriel, tenho 23 anos e sou de São Caetano do Sul - SP <br/><br/>
                 Estou cursando bacharelado em ciência e tecnologia na UFABC e faço  parte do GTHC - Green Team Hacker club <br/><br/>
@@ -27,11 +24,10 @@ const Home = () => {
                 E no restante do tempo, gosto de jogar video-games, ir para a academia, ler ocasionalmente, tocar guitarra, participar de resenha com os amigos, conhecer novas pessoas e estudar mais programação.<br/><br/>
                 Nas próximas seções teremos mais detalhes sobre meu trajeto até aqui.<br/><br/>
                 Abaixo estão meu Linkedin para contato e GitHub para meu portfolio de atividades. Aproveitem!!<br/><br/>
-                {finalCommand}
             </p>
-            <a href="https://linkedin.com/in/gabriel-jonatas-035078160"><img class="home-icon" src={linkedin}/></a>
-            <a href="https://github.com/GabrielJonatas"><img class="home-icon" src={github}/></a>
-            <img class="home-avatar" src={gabriel}/>
+            <a href="https://linkedin.com/in/gabriel-jonatas-035078160"><img className="home-icon" src={linkedin}/></a>
+            <a href="https://github.com/GabrielJonatas"><img className="home-icon" src={github}/></a>
+            <img className="home-avatar" src={gabriel}/>
         </div>
     );
 }
