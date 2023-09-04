@@ -7,6 +7,7 @@ import Atv from './routes/AtividadesAcademicasGTHC';
 import ExHv from './routes/Ex-hv';
 import ExpPr from './routes/Exp-pr';
 import Proj from './routes/Prj';
+import PgGTHC from './routes/initial';
 
 function App() {
   return (
@@ -15,8 +16,11 @@ function App() {
         <Navbar/>
        <div className="content">
           <Switch>
-            <Route exact path="/">
+            <Route exact path="/about">
               <Home />
+            </Route>
+            <Route path="/pagina-pessoal-GTHC/">
+              <PgGTHC />
             </Route>
             <Route path="/exp-ac">
               <ExpAc />

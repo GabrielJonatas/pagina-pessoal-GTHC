@@ -22,7 +22,7 @@ const Home = () => {
                 Além disso, sou naturalmente curioso e muito do meu tempo livre eu gasto aprendendo algo novo, especialmente sobre física, que ainda pretendo cursar como segunda graduação um dia.<br/><br/>
                 E no restante do tempo, gosto de jogar video-games, ir para a academia, ler ocasionalmente, tocar guitarra, participar de resenha com os amigos, conhecer novas pessoas e estudar mais programação.<br/><br/>
                 Nas próximas seções teremos mais detalhes sobre meu trajeto até aqui.<br/><br/>
-                Abaixo estão meu Linkedin para contato e GitHub para meu portfolio de atividades. Aproveitem!!<br/><br/>
+                Abaixo estão meu Linkedin para contato e GitHub para meu portfolio de atividades.<br/><br/>
             </p>
             <a href="https://linkedin.com/in/gabriel-jonatas-035078160"><img className="home-icon" src={linkedin}/></a>
             <a href="https://github.com/GabrielJonatas"><img className="home-icon" src={github}/></a>

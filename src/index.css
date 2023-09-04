@@ -132,6 +132,9 @@
   margin: 10px 0px;
   width: 400px;
 }
+.atv .descricao {
+  margin: 20px 0px;
+}
 .footer {
   display: flex;
   position: relative;
