@@ -3,8 +3,7 @@ import etec from '../Imagens/etec_icon.png'
 import gthc from '../Imagens/gthc_icon.png'
 import grub from '../Imagens/grub_icon.png'
 
-const ExpAc = () => {
-    
+const ExpAc = () => {    
     return ( 
         <div className="expac">
             <div className="un">

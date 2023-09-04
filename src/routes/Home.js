@@ -1,6 +1,6 @@
-import gabriel from '../Imagens/foto.jpg'
 import linkedin from '../Imagens/linkedin_icon.png'
 import github from '../Imagens/github_icon.png'
+import gabriel from '../Imagens/foto.png'
 
 //Seção inicial contendo o seu nome, 
 //link para o seu LinkedIn e GitHub, um pequeno texto bibliográfico
@@ -9,7 +9,6 @@ import github from '../Imagens/github_icon.png'
 //(pode ser sua ou um avatar caso não queira mostrar o rosto);
 
 const Home = () => {
-
     return ( 
         <div className="home">
             <h2>Sobre mim</h2>

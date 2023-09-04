@@ -6,7 +6,6 @@ import twitter from './Imagens/twitter_icon.png'
 import youtube from './Imagens/youtube_icon.png'
 
 const Footer = () => {
-
     return ( 
         <div className="footer">
             <div className="social-media">
