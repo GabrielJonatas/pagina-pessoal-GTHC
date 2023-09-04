@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/static/css/main.79f61f30.css",
-    "main.js": "/static/js/main.bd58aa63.js",
-    "static/media/Ufabc_icon.png": "/static/media/Ufabc_icon.542d4075c1c38c8884a9.png",
-    "static/media/foto.png": "/static/media/foto.519da130330392073d8f.png",
-    "static/media/projeto_imc_icon.png": "/static/media/projeto_imc_icon.1dc946f1d836d720989b.png",
-    "static/media/etec_icon.png": "/static/media/etec_icon.f82a028560d00b2a13e7.png",
-    "static/media/gerador_de_senhas_icon.png": "/static/media/gerador_de_senhas_icon.ca4d2d3fb3cf4333915a.png",
-    "static/media/gthc_icon.png": "/static/media/gthc_icon.76b1b89de06140f014bd.png",
-    "static/media/filantropando_icon.png": "/static/media/filantropando_icon.c222a5a2f604040a74b1.png",
-    "static/media/instagram_icon.png": "/static/media/instagram_icon.570d936885bdfa62ecca.png",
-    "static/media/projeto_timer_icon.png": "/static/media/projeto_timer_icon.a1cb8f096e980f4bf54c.png",
-    "static/media/github_icon.png": "/static/media/github_icon.63a8c65d4b55a4d9ff5b.png",
-    "static/media/facebook_icon.png": "/static/media/facebook_icon.0993dafd565d5a9f9702.png",
-    "static/media/linkedin_icon.png": "/static/media/linkedin_icon.29d03afb20d72e0e3b78.png",
-    "index.html": "/index.html",
-    "main.79f61f30.css.map": "/static/css/main.79f61f30.css.map",
-    "main.bd58aa63.js.map": "/static/js/main.bd58aa63.js.map"
+    "main.css": "/pagina-pessoal-GTHC/static/css/main.fa87cd6b.css",
+    "main.js": "/pagina-pessoal-GTHC/static/js/main.a44252c8.js",
+    "static/media/Ufabc_icon.png": "/pagina-pessoal-GTHC/static/media/Ufabc_icon.542d4075c1c38c8884a9.png",
+    "static/media/foto.png": "/pagina-pessoal-GTHC/static/media/foto.519da130330392073d8f.png",
+    "static/media/projeto_imc_icon.png": "/pagina-pessoal-GTHC/static/media/projeto_imc_icon.1dc946f1d836d720989b.png",
+    "static/media/etec_icon.png": "/pagina-pessoal-GTHC/static/media/etec_icon.f82a028560d00b2a13e7.png",
+    "static/media/gerador_de_senhas_icon.png": "/pagina-pessoal-GTHC/static/media/gerador_de_senhas_icon.ca4d2d3fb3cf4333915a.png",
+    "static/media/gthc_icon.png": "/pagina-pessoal-GTHC/static/media/gthc_icon.76b1b89de06140f014bd.png",
+    "static/media/filantropando_icon.png": "/pagina-pessoal-GTHC/static/media/filantropando_icon.c222a5a2f604040a74b1.png",
+    "static/media/instagram_icon.png": "/pagina-pessoal-GTHC/static/media/instagram_icon.570d936885bdfa62ecca.png",
+    "static/media/projeto_timer_icon.png": "/pagina-pessoal-GTHC/static/media/projeto_timer_icon.a1cb8f096e980f4bf54c.png",
+    "static/media/github_icon.png": "/pagina-pessoal-GTHC/static/media/github_icon.63a8c65d4b55a4d9ff5b.png",
+    "static/media/facebook_icon.png": "/pagina-pessoal-GTHC/static/media/facebook_icon.0993dafd565d5a9f9702.png",
+    "static/media/linkedin_icon.png": "/pagina-pessoal-GTHC/static/media/linkedin_icon.29d03afb20d72e0e3b78.png",
+    "index.html": "/pagina-pessoal-GTHC/index.html",
+    "main.fa87cd6b.css.map": "/pagina-pessoal-GTHC/static/css/main.fa87cd6b.css.map",
+    "main.a44252c8.js.map": "/pagina-pessoal-GTHC/static/js/main.a44252c8.js.map"
   },
   "entrypoints": [
-    "static/css/main.79f61f30.css",
-    "static/js/main.bd58aa63.js"
+    "static/css/main.fa87cd6b.css",
+    "static/js/main.a44252c8.js"
   ]
 }
